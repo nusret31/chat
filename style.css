@@ -1,0 +1,26 @@
+.uname
+{
+	color:#00F;
+	font-weight: bold;
+	font-size: 15px;
+	font-family:Verdana,sans-serif;
+}
+
+.msg
+{
+ 	color:#390;
+ 	font-size: 15px;
+ 	font-family: "Times New Roman",Times,serif;
+}
+
+.button
+{
+	text-align: center;
+	background-color: #00F;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #000;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+}
